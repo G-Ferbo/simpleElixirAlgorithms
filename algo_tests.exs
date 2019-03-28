@@ -1,4 +1,4 @@
-#i know this isn't how one really rights tests
+#I know this isn't how one really writes tests
 IO.puts("expect olleh")
 IO.puts(Utils.reverse_a_string("hello"))
 
